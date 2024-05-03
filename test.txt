@@ -1,0 +1,4 @@
+"AadClientId": "0872922c-c141-4f2b-91c9-1edfe2fc95cc",
+"AadSecret": "DZF8Q~kT5o1F~aKFwXpCPCso25I2IJkRG.fOVbN_",
+"AadTenantDomain": "hsosolutionexperience.onmicrosoft.com",
+"AadTenantId": "1a565174-79da-4bdb-aca2-769b13762ecf"
